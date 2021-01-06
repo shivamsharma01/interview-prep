@@ -1,0 +1,31 @@
+Dynamic Programming
+	Solving optimization problem by breaking a problem into sub-problems
+	
+Optimization problems
+	Enumeration problems
+		eg -> number of ways to climb the stairs? if u can climb 1,2 or 3 stairs at a time.
+		here we count the number of ways
+	Minimization / Maximization
+		array of n elements which contains the price of stock on dif days
+		calculate max profit u can make.
+		
+	Yes/no
+	 can you make 10 dollars using x,y,z denomination
+==============================================================
+
+Question links
+Reach a given score 
+	https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1
+
+Minimum number of jumps
+	https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/1
+	
+	
+	
+	
+	
+Definition of Standard Problems
+0/1 Knapsack
+	Given a set of items and their weights. How to pick maximum items such that their total weight is <= weight T.
+	
+0/1 because either you pick it or you don't pick it
